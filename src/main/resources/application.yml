@@ -1,0 +1,4 @@
+addon-client:
+  publicJWKS: jwks.json
+  privateJWKS: jwkSet.json
+  serviceUrl: http://localhost:8080/addon/verifyClient
